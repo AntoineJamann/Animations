@@ -1,6 +1,6 @@
 ## **Full-Wave propagation of a wave (X-mode) in a frozen turbulence snapshot.**
 <p align="center">
-   <img src="Wave_propagation.gif" alt="Demo" width="600"/>
+   <img src="Wave_propagation.gif" alt="Demo" width="800"/>
 </p>
 
 ## **Temporal evolution of denormalized GYSELA turbulence snapshots**
