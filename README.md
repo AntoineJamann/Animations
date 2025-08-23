@@ -4,6 +4,5 @@
   Your browser does not support the video tag.
 </video>
 
-![Demo](demo.gif)  
 [▶️ Watch full video](https://github.com/AntoineJamann/Animations/blob/main/Wave_propagation.mp4?raw=true)
 
