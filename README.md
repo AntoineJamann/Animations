@@ -2,4 +2,4 @@
 ![Play](Wave_propagation.gif)
 
 ## **Temporal evolution of denormalized GYSELA turbulence snapshots**
-![Play](animation_gys_TKE_SCE_00375.gif)
+<img src="animation_gys_TKE_SCE_00375.gif" alt="Demo" width="800"/>
