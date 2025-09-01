@@ -5,7 +5,9 @@
 
 
 ## **Temporal evolution of denormalized Hasegawa-Wakatani turbulence snapshots**
-<img src="animation_TOKAM2D_g=0_X.gif" alt="Demo" width="600"/>
+<p align="center">
+   <img src="animation_TOKAM2D_g=0_X.gif" alt="Demo" width="400"/>
+</p>
 
 ## **Temporal evolution of denormalized GYSELA turbulence snapshots**
 <img src="animation_gys_TKE_SCE_00375.gif" alt="Demo" width="1000"/>
